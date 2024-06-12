@@ -1,0 +1,21 @@
+/* .App {
+  text-align: center;
+} */
+
+#logoCenso {
+	margin-right: 0;
+}
+
+article {
+	margin-top: 25px !important;
+}
+
+#pantalla-login,
+#pantalla-registro {
+	margin-top: 120px;
+}
+
+#datosParaLoguearse {
+	margin-top: 50px;
+	color: rgb(80, 85, 90);
+}

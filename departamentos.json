@@ -1,0 +1,198 @@
+{
+  "departamentos": [
+    {
+      "id": 1,
+      "nombre": "Amazonas",
+      "capital": "Leticia",
+      "poblacion": 80000
+    },
+    {
+      "id": 2,
+      "nombre": "Antioquia",
+      "capital": "Medellín",
+      "poblacion": 6687300
+    },
+    {
+      "id": 3,
+      "nombre": "Arauca",
+      "capital": "Arauca",
+      "poblacion": 263200
+    },
+    {
+      "id": 4,
+      "nombre": "Atlántico",
+      "capital": "Barranquilla",
+      "poblacion": 2749800
+    },
+    {
+      "id": 5,
+      "nombre": "Bolívar",
+      "capital": "Cartagena",
+      "poblacion": 2185600
+    },
+    {
+      "id": 6,
+      "nombre": "Boyacá",
+      "capital": "Tunja",
+      "poblacion": 1236300
+    },
+    {
+      "id": 7,
+      "nombre": "Caldas",
+      "capital": "Manizales",
+      "poblacion": 998255
+    },
+    {
+      "id": 8,
+      "nombre": "Caquetá",
+      "capital": "Florencia",
+      "poblacion": 490000
+    },
+    {
+      "id": 9,
+      "nombre": "Casanare",
+      "capital": "Yopal",
+      "poblacion": 360000
+    },
+    {
+      "id": 10,
+      "nombre": "Cauca",
+      "capital": "Popayán",
+      "poblacion": 1399800
+    },
+    {
+      "id": 11,
+      "nombre": "Cesar",
+      "capital": "Valledupar",
+      "poblacion": 1090800
+    },
+    {
+      "id": 12,
+      "nombre": "Chocó",
+      "capital": "Quibdó",
+      "poblacion": 534000
+    },
+    {
+      "id": 13,
+      "nombre": "Córdoba",
+      "capital": "Montería",
+      "poblacion": 1784000
+    },
+    {
+      "id": 14,
+      "nombre": "Cundinamarca",
+      "capital": "Bogotá",
+      "poblacion": 11000000
+    },
+    {
+      "id": 15,
+      "nombre": "Guainía",
+      "capital": "Inírida",
+      "poblacion": 40000
+    },
+    {
+      "id": 16,
+      "nombre": "Guaviare",
+      "capital": "San José del Guaviare",
+      "poblacion": 95000
+    },
+    {
+      "id": 17,
+      "nombre": "Huila",
+      "capital": "Neiva",
+      "poblacion": 1095000
+    },
+    {
+      "id": 18,
+      "nombre": "La Guajira",
+      "capital": "Riohacha",
+      "poblacion": 927500
+    },
+    {
+      "id": 19,
+      "nombre": "Magdalena",
+      "capital": "Santa Marta",
+      "poblacion": 1264700
+    },
+    {
+      "id": 20,
+      "nombre": "Meta",
+      "capital": "Villavicencio",
+      "poblacion": 1046000
+    },
+    {
+      "id": 21,
+      "nombre": "Nariño",
+      "capital": "Pasto",
+      "poblacion": 1620000
+    },
+    {
+      "id": 22,
+      "nombre": "Norte de Santander",
+      "capital": "Cúcuta",
+      "poblacion": 1391300
+    },
+    {
+      "id": 23,
+      "nombre": "Putumayo",
+      "capital": "Mocoa",
+      "poblacion": 345000
+    },
+    {
+      "id": 24,
+      "nombre": "Quindío",
+      "capital": "Armenia",
+      "poblacion": 578000
+    },
+    {
+      "id": 25,
+      "nombre": "Risaralda",
+      "capital": "Pereira",
+      "poblacion": 960000
+    },
+    {
+      "id": 26,
+      "nombre": "San Andrés y Providencia",
+      "capital": "San Andrés",
+      "poblacion": 80000
+    },
+    {
+      "id": 27,
+      "nombre": "Santander",
+      "capital": "Bucaramanga",
+      "poblacion": 2197000
+    },
+    {
+      "id": 28,
+      "nombre": "Sucre",
+      "capital": "Sincelejo",
+      "poblacion": 901000
+    },
+    {
+      "id": 29,
+      "nombre": "Tolima",
+      "capital": "Ibagué",
+      "poblacion": 1382800
+    },
+    {
+      "id": 30,
+      "nombre": "Valle del Cauca",
+      "capital": "Cali",
+      "poblacion": 4486700
+    },
+    {
+      "id": 31,
+      "nombre": "Vaupés",
+      "capital": "Mitú",
+      "poblacion": 24000
+    },
+    {
+      "id": 32,
+      "nombre": "Vichada",
+      "capital": "Puerto Carreño",
+      "poblacion": 107000
+    }
+    
+    
+  ]
+}
